@@ -1,6 +1,6 @@
 import random
-
-# DOC String Check
+#bstart of code
+# DOC String Check 
 def docstring_check(fn):
     """
     This function is used to check the docstring count for each function, it checks if 
