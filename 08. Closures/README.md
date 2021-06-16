@@ -1,13 +1,11 @@
 <h1 align="center">Closures</h1>
 
 <h2 align="center"> Assignment Question </h2>
-
-1. Write a closure that takes a function and then check whether the function passed has a docstring with more than 50 characters. 50 is stored as a free variable - 200
-2. Write a closure that gives you the next Fibonacci number - 100
-3. We wrote a closure that counts how many times a function was called. Write a new one that can keep a track of how many times add/mul/div functions were called, and update a global dictionary variable with the counts - 250
-4. Modify above such that now we can pass in different dictionary variables to update different dictionaries - 250
-
-No readme or no docstring for each function, or no test cases, 0. Write test cases to check boundary conditions that might cause your code to fail. 
+1. Write a closure that takes a function and then check whether the function passed has a docstring with more than 50 characters. 50 is stored as a free variable (+ 4 tests) - 200
+2.Write a closure that gives you the next Fibonacci number (+ 2 tests) - 100
+3. We wrote a closure that counts how many times a function was called. Write a new one that can keep a track of how many times add/mul/div functions were called, and update a global dictionary variable with the counts (+ 6 tests) - 250
+4. Modify above such that now we can pass in different dictionary variables to update different dictionaries (+ 6 tests) - 250
+5. Once done, upload the code to github, run actions, and then proceed to answer S7 - Assignment Solutions
 
 <h2 align="center"> Assignment Solution </h2>
 
@@ -38,6 +36,3 @@ This task is and upgraded version of task 4, The only difference is that instead
 ### Test Cases
 
 There are test case for to check the working of each task function. There are some general test cases of checking documentation of the project and the python files,There are testcases to check to whether they are acutally closures or not.
-
----
-<h3 align = "center"> Made with ❤ & 🍻 by KillerStrike</h3>
