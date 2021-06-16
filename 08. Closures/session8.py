@@ -1,5 +1,5 @@
 import random
-#bstart of code
+#bstart of code is important
 # DOC String Check 
 def docstring_check(fn):
     """
